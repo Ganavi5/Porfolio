@@ -39,8 +39,6 @@ export default function ExperienceSection() {
             className="bg-[#1a1a22] p-6 rounded-xl border border-gray-800"
           >
             <h3 className="text-xl font-semibold">{exp.title}</h3>
-            <p className="text-gray-400">{exp.company}</p>
-            <p className="text-sm text-gray-500">{exp.year}</p>
           </motion.div>
         ))}
       </div>
