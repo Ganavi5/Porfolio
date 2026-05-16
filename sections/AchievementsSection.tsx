@@ -32,6 +32,16 @@ const achievements = [
     description: "Open source contribution under AI and ML track",
     year: "2025",
   },
+  {
+    title: "Top 1% in 10 th standard",
+    description: "95%",
+    year: "2022",
+  },
+  {
+    title: "Top 1% in 12 th standard",
+    description: "94%",
+    year: "2024",
+  },
 
 ];
 
